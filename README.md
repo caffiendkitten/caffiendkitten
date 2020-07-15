@@ -7,8 +7,6 @@ I am a quality-driven security professional and full stack software/security eng
 
 :floppy_disk: I’m seeking an Application Security Engineer / Penetration Tester position that will push my experience and skills to the limit and also offer a challenging future with room for learning and advancement..
 
-:star: Pronouns: she/her
-
 💬 How to reach me: ...
  - LinkedIn: https://www.linkedin.com/in/daneil-coulthard/
  - GitHub: https://github.com/caffiendkitten
