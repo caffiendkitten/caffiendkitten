@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, my name is DaNeil 👋
+I am a quality-driven security professional and full stack software/security engineer with a passion for performing responsible disclosure and aligning security controls, processes, policies and procedures. :space_invader:
 
-<!--
-**caffiendkitten/caffiendkitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:floppy_disk:I am passionate about Information Security and enthusiastic about finding security vulnerabilities. I am experienced in leveraging tool-based testing, and manual hands-on testing, of web applications and network services while utilizing web and network application guidelines and following industry-standard best practices and methodologies, such as OWASP and PTES.
 
-Here are some ideas to get you started:
+:checkered_flag:I am active within the Capture the Flag community and local tech meetup groups such as the CyberSecurity Non-Profit that I am a chapter organizer for, WISP, WoSec, and OWASP and this site will be built around my progress and my process of getting into Info Sec.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:floppy_disk: I’m seeking an Application Security Engineer / Penetration Tester position that will push my experience and skills to the limit and also offer a challenging future with room for learning and advancement..
+
+:star: Pronouns: she/her
+
+💬 How to reach me: ...
+ - LinkedIn: https://www.linkedin.com/in/daneil-coulthard/
+ - GitHub: https://github.com/caffiendkitten
+ - Dev.to: https://dev.to/caffiendkitten
+ - PentesterLab: https://pentesterlab.com/profile/CaffiendKitten
+ - HackThebox: https://www.hackthebox.eu/profile/67366
+ - HackerOne: https://hackerone.com/caffiendkitten
+ - BugCrowd: https://bugcrowd.com/caffiendkitten
